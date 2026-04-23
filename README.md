@@ -10,5 +10,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/itsabhinavism/LeetCode-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/itsabhinavism/LeetCode-Problems/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/itsabhinavism/LeetCode-Problems/tree/master/0620-not-boring-movies) |
+| [1757-recyclable-and-low-fat-products](https://github.com/itsabhinavism/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/itsabhinavism/LeetCode-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
