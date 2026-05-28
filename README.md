@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/itsabhinavism/LeetCode-Problems/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/itsabhinavism/LeetCode-Problems/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/itsabhinavism/LeetCode-Problems/tree/master/1179-reformat-department-table) |
+| [1280-students-and-examinations](https://github.com/itsabhinavism/LeetCode-Problems/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/itsabhinavism/LeetCode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/itsabhinavism/LeetCode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/itsabhinavism/LeetCode-Problems/tree/master/1484-group-sold-products-by-the-date) |
